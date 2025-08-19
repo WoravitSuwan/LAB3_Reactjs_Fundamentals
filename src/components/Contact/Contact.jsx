@@ -122,7 +122,7 @@ function Contact() {
               <Mail size={22} />
               <div>
                 <h4>Email</h4>
-                <p>nicky2011abcd@gmail.com</p>
+                <p>WoravitSuwan@gmail.com</p>
               </div>
             </div>
 
@@ -130,7 +130,7 @@ function Contact() {
               <Phone size={22} />
               <div>
                 <h4>Phone</h4>
-                <p>+66 XX XXX XXXX</p>
+                <p>0962659068</p>
               </div>
             </div>
 
@@ -145,7 +145,7 @@ function Contact() {
             <div className="social-links">
               <h4>Follow Me</h4>
               <div className="social-icons">
-                <a href="https://github.com/TriratWongsit" target="_blank" rel="noreferrer noopener"><Github size={22} /></a>
+                <a href="https://github.com/WoravitSuwan" target="_blank" rel="noreferrer noopener"><Github size={22} /></a>
                 <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noreferrer noopener"><Linkedin size={22} /></a>
                 <a href="https://twitter.com/yourusername" target="_blank" rel="noreferrer noopener"><Twitter size={22} /></a>
               </div>
