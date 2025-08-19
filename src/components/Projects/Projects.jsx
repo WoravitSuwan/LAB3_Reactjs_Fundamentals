@@ -22,7 +22,7 @@ function Projects() {
               </ul>
               <div className="project-actions">
                 <a className="btn-primary" href="https://demo-url.com" target="_blank" rel="noreferrer">Live</a>
-                <a className="btn-secondary" href="https://github.com/WoravitSuwan/To-Do-List" target="_blank" rel="noreferrer">Code</a>
+                <a className="btn-secondary" href="https://github.com/WoravitSuwan/react-Workshop" target="_blank" rel="noreferrer">Code</a>
               </div>
             </div>
           </article>
